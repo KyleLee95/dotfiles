@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.tmux.conf
+!.profile
+!config/
+!.zshrc
+!readme.md
