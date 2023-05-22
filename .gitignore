@@ -5,6 +5,12 @@
 !.gitignore
 !.tmux.conf
 !.profile
-!config/
+!.config/
+!.config/nvim/*
+!.config/nvim/lua/*
+!.config/nvim/lua/plugins/*
+!.config/i3/*
+!.config/rofi/*
+!.config/i3status/*
 !.zshrc
 !readme.md
